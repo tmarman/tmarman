@@ -2,9 +2,9 @@
 
 **Engineer, founder, platform builder — now focused on agentic systems.**
 
-Twenty-five years working the seam between disciplines: platforms at Apple scale, venture-backed startups through exits, a law degree earned at night while shipping code by day, and formal wine training — because taste, like engineering, is a practice. The throughline is pattern recognition: extract the structure, match it to the new case, build the thing.
+Twenty-five years across the whole craft of building companies — the engineering, the product, the design, the business, even the law degree (earned at night, while shipping code by day) to read the fine print. Platforms at Apple scale; venture-backed startups through exits; formal wine training, because taste is a practice. The throughline is pattern recognition: extract the structure, match it to the new case, build the thing.
 
-Today I operate as a one-person company with a team of agents. They research markets, draft copy, run design passes, triage issues and ship code across everything below — I set direction and make the calls. The day job lives in private repos, but the contribution graph shows the pace.
+Today I operate as a one-person company with a team of agents — they research markets, draft copy, run design passes, triage issues and ship code across everything below, while I set direction and make the calls. Nobody assigns this work; it ships because I decide it should. The day job lives in private repos, but the contribution graph shows the pace.
 
 ## Building
 
